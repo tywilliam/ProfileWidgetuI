@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:#e6ff61;
+    font-feature-settings: arial;
+}
+.profile 
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 300px;
+    height: 450px;
+    background: #fff;
+    box-sizing: border-box;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 20px 20px rgba(0,0,0,.5);
+}
